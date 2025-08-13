@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammet Emir Yılmaz</h1>
-<h3 align="center">A web developer from Turkey</h3>
-
-- 🌱 I’m currently learning **Web Design, SQL, Computer Hardware**
+<h3 align="center">A Software developer from Türkiye</h3>
 
 - 👨‍💻 I'm Interested in **C#, Web design, SQL, JS, HTML, CSS**
 
