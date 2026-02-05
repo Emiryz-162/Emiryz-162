@@ -38,15 +38,6 @@ I enjoy building structured backend systems, clean user interfaces, and practica
 
 ---
 
-## Projects
-
-- DigiMenu — Digital restaurant menu with admin panel
-- BookCatalogApp — CRUD-based ASP.NET practice project
-
-More projects are available in my repositories.
-
----
-
 ## Contact
 
 📫 yz.emir@hotmail.com  
