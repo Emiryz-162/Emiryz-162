@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Ben Emir" width="100%">
+  <img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/f288dafa-6c72-46fd-a5f0-4338ab517d8a" />
+
 </p>
 
 <h1 align="center">Ben Emir</h1>
